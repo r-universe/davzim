@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dataverifyr"]
+	path = dataverifyr
+	url = https://github.com/davzim/dataverifyr
+	shallow = true
+	registered = true
