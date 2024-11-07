@@ -8,3 +8,6 @@
 [submodule "dataverifyr"]
 	path = dataverifyr
 	url = https://github.com/davzim/dataverifyr
+[submodule "rtiktoken"]
+	path = rtiktoken
+	url = https://github.com/davzim/rtiktoken
